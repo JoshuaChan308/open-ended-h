@@ -1,0 +1,16 @@
+h1 {
+  Font-weight: bold;
+  Font-size: 21px;
+}
+
+p {
+  Font-size: 14px;
+}
+
+a {
+  Color: green;
+}
+
+a:hover {
+  text-decoration: none;
+}
